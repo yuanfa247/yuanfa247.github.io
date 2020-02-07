@@ -5,10 +5,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Editor directories and files
+# 编辑器目录和文件
 .idea
 .vscode
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
+# 忽略txt文件
+*.txt
